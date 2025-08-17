@@ -1,5 +1,7 @@
 {
   "name": "next-semantic-release",
+  "author": "wrlakshan",
+  "email": "wrlakshan@gmail.com",
   "version": "1.0.0",
   "private": true,
   "scripts": {
