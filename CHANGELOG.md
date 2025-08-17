@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/wrlakshan/next-semantic-release/compare/v1.1.0...v1.1.1) (2025-08-17)
+
+### Bug Fixes
+
+- update background color in globals.css for improved aesthetics ([9c04217](https://github.com/wrlakshan/next-semantic-release/commit/9c04217e4f697dab29254ff9b45104848d3a13b4))
+
 # [1.1.0](https://github.com/wrlakshan/next-semantic-release/compare/v1.0.0...v1.1.0) (2025-08-17)
 
 ### Features
