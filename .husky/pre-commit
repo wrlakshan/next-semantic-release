@@ -1,5 +1,5 @@
-# Build the project to ensure it compiles successfully
-npm run build
-
-# Run lint-staged for formatting and linting
+# Run lint-staged for formatting and linting staged files only
 npx lint-staged
+
+# Build the project to ensure it compiles successfully (only if changes pass linting)
+npm run build
