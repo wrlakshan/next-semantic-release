@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/wrlakshan/next-semantic-release/compare/v1.0.0...v1.1.0) (2025-08-17)
+
+### Features
+
+- enhance project configuration and formatting ([b3e9d61](https://github.com/wrlakshan/next-semantic-release/commit/b3e9d6188a965f74f8b39e237bccbb07ca86bcc6))
+
 # 1.0.0 (2025-08-17)
 
 ### Bug Fixes
